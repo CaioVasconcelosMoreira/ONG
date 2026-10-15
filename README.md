@@ -48,6 +48,5 @@ Basta clonar o repositório e abrir o arquivo `index.html` no navegador. Não h�
 - Caio Vasconcelos Moreira
 - Kaio Ribas Narcizo
 - Caio Goes Queiroz
-- [Nome completo]
 
 > Todos os dados da ONG (nome, números, contatos e endereço) são fictícios.
